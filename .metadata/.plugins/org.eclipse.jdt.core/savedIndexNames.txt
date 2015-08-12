@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/dvh/Downloads/mcp910/eclipse/Client/.metadata/.plugins/org.eclipse.jdt.core
